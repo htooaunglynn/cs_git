@@ -1,0 +1,8 @@
+C:\Users\htooa\Desktop\csharp\Visual_studio\C# SA B1\AdoDotNetDemo2\AdoDotNetDemo2\bin\Debug\AdoDotNetDemo2.exe.config
+C:\Users\htooa\Desktop\csharp\Visual_studio\C# SA B1\AdoDotNetDemo2\AdoDotNetDemo2\bin\Debug\AdoDotNetDemo2.exe
+C:\Users\htooa\Desktop\csharp\Visual_studio\C# SA B1\AdoDotNetDemo2\AdoDotNetDemo2\bin\Debug\AdoDotNetDemo2.pdb
+C:\Users\htooa\Desktop\csharp\Visual_studio\C# SA B1\AdoDotNetDemo2\AdoDotNetDemo2\obj\Debug\AdoDotNetDemo2.csproj.AssemblyReference.cache
+C:\Users\htooa\Desktop\csharp\Visual_studio\C# SA B1\AdoDotNetDemo2\AdoDotNetDemo2\obj\Debug\AdoDotNetDemo2.csproj.SuggestedBindingRedirects.cache
+C:\Users\htooa\Desktop\csharp\Visual_studio\C# SA B1\AdoDotNetDemo2\AdoDotNetDemo2\obj\Debug\AdoDotNetDemo2.csproj.CoreCompileInputs.cache
+C:\Users\htooa\Desktop\csharp\Visual_studio\C# SA B1\AdoDotNetDemo2\AdoDotNetDemo2\obj\Debug\AdoDotNetDemo2.exe
+C:\Users\htooa\Desktop\csharp\Visual_studio\C# SA B1\AdoDotNetDemo2\AdoDotNetDemo2\obj\Debug\AdoDotNetDemo2.pdb

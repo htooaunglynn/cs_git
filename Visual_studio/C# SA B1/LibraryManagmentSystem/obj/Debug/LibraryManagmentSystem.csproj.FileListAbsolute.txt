@@ -1,0 +1,14 @@
+C:\Users\htooa\Desktop\csharp\Visual_studio\C# SA B1\LibraryManagmentSystem\bin\Debug\LibraryManagmentSystem.exe
+C:\Users\htooa\Desktop\csharp\Visual_studio\C# SA B1\LibraryManagmentSystem\bin\Debug\LibraryManagmentSystem.exe.config
+C:\Users\htooa\Desktop\csharp\Visual_studio\C# SA B1\LibraryManagmentSystem\obj\Debug\LibraryManagmentSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\htooa\Desktop\csharp\Visual_studio\C# SA B1\LibraryManagmentSystem\obj\Debug\LibraryManagmentSystem.Properties.Resources.resources
+C:\Users\htooa\Desktop\csharp\Visual_studio\C# SA B1\LibraryManagmentSystem\obj\Debug\LibraryManagmentSystem.UI.DashBoardUI.resources
+C:\Users\htooa\Desktop\csharp\Visual_studio\C# SA B1\LibraryManagmentSystem\obj\Debug\LibraryManagmentSystem.UI.LoginUI.resources
+C:\Users\htooa\Desktop\csharp\Visual_studio\C# SA B1\LibraryManagmentSystem\obj\Debug\LibraryManagmentSystem.csproj.GenerateResource.cache
+C:\Users\htooa\Desktop\csharp\Visual_studio\C# SA B1\LibraryManagmentSystem\obj\Debug\LibraryManagmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\htooa\Desktop\csharp\Visual_studio\C# SA B1\LibraryManagmentSystem\obj\Debug\LibraryManagmentSystem.exe
+C:\Users\htooa\Desktop\csharp\Visual_studio\C# SA B1\LibraryManagmentSystem\obj\Debug\LibraryManagmentSystem.pdb
+C:\Users\htooa\Desktop\csharp\Visual_studio\C# SA B1\LibraryManagmentSystem\obj\Debug\LibraryManagmentSystem.csproj.AssemblyReference.cache
+C:\Users\htooa\Desktop\csharp\Visual_studio\C# SA B1\LibraryManagmentSystem\bin\Debug\LibraryManagmentSystem.pdb
+C:\Users\htooa\Desktop\csharp\Visual_studio\C# SA B1\LibraryManagmentSystem\obj\Debug\LibraryManagmentSystem.UI.UserListUI.resources
+C:\Users\htooa\Desktop\csharp\Visual_studio\C# SA B1\LibraryManagmentSystem\obj\Debug\LibraryManagmentSystem.UI.UserUI.resources

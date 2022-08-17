@@ -1,0 +1,16 @@
+C:\Users\htooa\Desktop\C#\YCI\YCI\bin\Debug\net5.0\YCI.exe
+C:\Users\htooa\Desktop\C#\YCI\YCI\bin\Debug\net5.0\YCI.deps.json
+C:\Users\htooa\Desktop\C#\YCI\YCI\bin\Debug\net5.0\YCI.runtimeconfig.json
+C:\Users\htooa\Desktop\C#\YCI\YCI\bin\Debug\net5.0\YCI.runtimeconfig.dev.json
+C:\Users\htooa\Desktop\C#\YCI\YCI\bin\Debug\net5.0\YCI.dll
+C:\Users\htooa\Desktop\C#\YCI\YCI\bin\Debug\net5.0\ref\YCI.dll
+C:\Users\htooa\Desktop\C#\YCI\YCI\bin\Debug\net5.0\YCI.pdb
+C:\Users\htooa\Desktop\C#\YCI\YCI\obj\Debug\net5.0\YCI.csproj.AssemblyReference.cache
+C:\Users\htooa\Desktop\C#\YCI\YCI\obj\Debug\net5.0\YCI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\htooa\Desktop\C#\YCI\YCI\obj\Debug\net5.0\YCI.AssemblyInfoInputs.cache
+C:\Users\htooa\Desktop\C#\YCI\YCI\obj\Debug\net5.0\YCI.AssemblyInfo.cs
+C:\Users\htooa\Desktop\C#\YCI\YCI\obj\Debug\net5.0\YCI.csproj.CoreCompileInputs.cache
+C:\Users\htooa\Desktop\C#\YCI\YCI\obj\Debug\net5.0\YCI.dll
+C:\Users\htooa\Desktop\C#\YCI\YCI\obj\Debug\net5.0\ref\YCI.dll
+C:\Users\htooa\Desktop\C#\YCI\YCI\obj\Debug\net5.0\YCI.pdb
+C:\Users\htooa\Desktop\C#\YCI\YCI\obj\Debug\net5.0\YCI.genruntimeconfig.cache

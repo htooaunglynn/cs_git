@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4808d98c-4c29-4509-9d53-fe195ff70578": {
+      "ProjectGuid": "4808d98c-4c29-4509-9d53-fe195ff70578",
+      "DisplayName": "Tutorial",
+      "ColorIndex": 0
+    },
+    "57f183db-583b-40d4-ae3b-06ff17fbc0c1": {
+      "ProjectGuid": "57f183db-583b-40d4-ae3b-06ff17fbc0c1",
+      "DisplayName": "Assignment5",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

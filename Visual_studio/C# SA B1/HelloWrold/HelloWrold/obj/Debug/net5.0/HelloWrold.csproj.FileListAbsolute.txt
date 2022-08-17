@@ -1,0 +1,16 @@
+C:\Users\htooa\Desktop\C#\HelloWrold\HelloWrold\bin\Debug\net5.0\HelloWrold.exe
+C:\Users\htooa\Desktop\C#\HelloWrold\HelloWrold\bin\Debug\net5.0\HelloWrold.deps.json
+C:\Users\htooa\Desktop\C#\HelloWrold\HelloWrold\bin\Debug\net5.0\HelloWrold.runtimeconfig.json
+C:\Users\htooa\Desktop\C#\HelloWrold\HelloWrold\bin\Debug\net5.0\HelloWrold.runtimeconfig.dev.json
+C:\Users\htooa\Desktop\C#\HelloWrold\HelloWrold\bin\Debug\net5.0\HelloWrold.dll
+C:\Users\htooa\Desktop\C#\HelloWrold\HelloWrold\bin\Debug\net5.0\ref\HelloWrold.dll
+C:\Users\htooa\Desktop\C#\HelloWrold\HelloWrold\bin\Debug\net5.0\HelloWrold.pdb
+C:\Users\htooa\Desktop\C#\HelloWrold\HelloWrold\obj\Debug\net5.0\HelloWrold.csproj.AssemblyReference.cache
+C:\Users\htooa\Desktop\C#\HelloWrold\HelloWrold\obj\Debug\net5.0\HelloWrold.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\htooa\Desktop\C#\HelloWrold\HelloWrold\obj\Debug\net5.0\HelloWrold.AssemblyInfoInputs.cache
+C:\Users\htooa\Desktop\C#\HelloWrold\HelloWrold\obj\Debug\net5.0\HelloWrold.AssemblyInfo.cs
+C:\Users\htooa\Desktop\C#\HelloWrold\HelloWrold\obj\Debug\net5.0\HelloWrold.csproj.CoreCompileInputs.cache
+C:\Users\htooa\Desktop\C#\HelloWrold\HelloWrold\obj\Debug\net5.0\HelloWrold.dll
+C:\Users\htooa\Desktop\C#\HelloWrold\HelloWrold\obj\Debug\net5.0\ref\HelloWrold.dll
+C:\Users\htooa\Desktop\C#\HelloWrold\HelloWrold\obj\Debug\net5.0\HelloWrold.pdb
+C:\Users\htooa\Desktop\C#\HelloWrold\HelloWrold\obj\Debug\net5.0\HelloWrold.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7fc046be-6e05-495d-a3dc-723812b37cad": {
+      "ProjectGuid": "7fc046be-6e05-495d-a3dc-723812b37cad",
+      "DisplayName": "YCI",
+      "ColorIndex": 0
+    },
+    "d6f8bf38-cb8f-4f83-8833-8ab640681dae": {
+      "ProjectGuid": "d6f8bf38-cb8f-4f83-8833-8ab640681dae",
+      "DisplayName": "PolymorphismDemo",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

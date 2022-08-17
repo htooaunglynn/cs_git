@@ -1,0 +1,8 @@
+C:\Users\htooa\Desktop\csharp\Visual_studio\Sololearn\Tutorial\Tutorial\bin\Debug\Tutorial.exe.config
+C:\Users\htooa\Desktop\csharp\Visual_studio\Sololearn\Tutorial\Tutorial\bin\Debug\Tutorial.exe
+C:\Users\htooa\Desktop\csharp\Visual_studio\Sololearn\Tutorial\Tutorial\bin\Debug\Tutorial.pdb
+C:\Users\htooa\Desktop\csharp\Visual_studio\Sololearn\Tutorial\Tutorial\obj\Debug\Tutorial.csproj.AssemblyReference.cache
+C:\Users\htooa\Desktop\csharp\Visual_studio\Sololearn\Tutorial\Tutorial\obj\Debug\Tutorial.csproj.SuggestedBindingRedirects.cache
+C:\Users\htooa\Desktop\csharp\Visual_studio\Sololearn\Tutorial\Tutorial\obj\Debug\Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\htooa\Desktop\csharp\Visual_studio\Sololearn\Tutorial\Tutorial\obj\Debug\Tutorial.exe
+C:\Users\htooa\Desktop\csharp\Visual_studio\Sololearn\Tutorial\Tutorial\obj\Debug\Tutorial.pdb

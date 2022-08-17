@@ -1,0 +1,8 @@
+C:\Users\htooa\Desktop\csharp\Visual_studio\C# SA B1\AbstractionDemo\bin\Debug\AbstractionDemo.exe.config
+C:\Users\htooa\Desktop\csharp\Visual_studio\C# SA B1\AbstractionDemo\bin\Debug\AbstractionDemo.exe
+C:\Users\htooa\Desktop\csharp\Visual_studio\C# SA B1\AbstractionDemo\bin\Debug\AbstractionDemo.pdb
+C:\Users\htooa\Desktop\csharp\Visual_studio\C# SA B1\AbstractionDemo\obj\Debug\AbstractionDemo.csproj.AssemblyReference.cache
+C:\Users\htooa\Desktop\csharp\Visual_studio\C# SA B1\AbstractionDemo\obj\Debug\AbstractionDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\htooa\Desktop\csharp\Visual_studio\C# SA B1\AbstractionDemo\obj\Debug\AbstractionDemo.csproj.CoreCompileInputs.cache
+C:\Users\htooa\Desktop\csharp\Visual_studio\C# SA B1\AbstractionDemo\obj\Debug\AbstractionDemo.exe
+C:\Users\htooa\Desktop\csharp\Visual_studio\C# SA B1\AbstractionDemo\obj\Debug\AbstractionDemo.pdb

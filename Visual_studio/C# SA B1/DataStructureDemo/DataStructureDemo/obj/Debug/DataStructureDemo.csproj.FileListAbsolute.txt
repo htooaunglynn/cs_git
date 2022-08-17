@@ -1,0 +1,8 @@
+C:\Users\htooa\Desktop\csharp\Visual_studio\C# SA B1\DataStructureDemo\DataStructureDemo\bin\Debug\DataStructureDemo.exe.config
+C:\Users\htooa\Desktop\csharp\Visual_studio\C# SA B1\DataStructureDemo\DataStructureDemo\bin\Debug\DataStructureDemo.exe
+C:\Users\htooa\Desktop\csharp\Visual_studio\C# SA B1\DataStructureDemo\DataStructureDemo\bin\Debug\DataStructureDemo.pdb
+C:\Users\htooa\Desktop\csharp\Visual_studio\C# SA B1\DataStructureDemo\DataStructureDemo\obj\Debug\DataStructureDemo.csproj.AssemblyReference.cache
+C:\Users\htooa\Desktop\csharp\Visual_studio\C# SA B1\DataStructureDemo\DataStructureDemo\obj\Debug\DataStructureDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\htooa\Desktop\csharp\Visual_studio\C# SA B1\DataStructureDemo\DataStructureDemo\obj\Debug\DataStructureDemo.csproj.CoreCompileInputs.cache
+C:\Users\htooa\Desktop\csharp\Visual_studio\C# SA B1\DataStructureDemo\DataStructureDemo\obj\Debug\DataStructureDemo.exe
+C:\Users\htooa\Desktop\csharp\Visual_studio\C# SA B1\DataStructureDemo\DataStructureDemo\obj\Debug\DataStructureDemo.pdb

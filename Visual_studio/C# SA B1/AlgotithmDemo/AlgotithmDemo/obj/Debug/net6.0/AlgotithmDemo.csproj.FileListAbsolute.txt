@@ -1,0 +1,15 @@
+C:\Users\htooa\Desktop\csharp\Visual_studio\C# SA B1\AlgotithmDemo\AlgotithmDemo\bin\Debug\net6.0\AlgotithmDemo.exe
+C:\Users\htooa\Desktop\csharp\Visual_studio\C# SA B1\AlgotithmDemo\AlgotithmDemo\bin\Debug\net6.0\AlgotithmDemo.deps.json
+C:\Users\htooa\Desktop\csharp\Visual_studio\C# SA B1\AlgotithmDemo\AlgotithmDemo\bin\Debug\net6.0\AlgotithmDemo.runtimeconfig.json
+C:\Users\htooa\Desktop\csharp\Visual_studio\C# SA B1\AlgotithmDemo\AlgotithmDemo\bin\Debug\net6.0\AlgotithmDemo.dll
+C:\Users\htooa\Desktop\csharp\Visual_studio\C# SA B1\AlgotithmDemo\AlgotithmDemo\bin\Debug\net6.0\ref\AlgotithmDemo.dll
+C:\Users\htooa\Desktop\csharp\Visual_studio\C# SA B1\AlgotithmDemo\AlgotithmDemo\bin\Debug\net6.0\AlgotithmDemo.pdb
+C:\Users\htooa\Desktop\csharp\Visual_studio\C# SA B1\AlgotithmDemo\AlgotithmDemo\obj\Debug\net6.0\AlgotithmDemo.csproj.AssemblyReference.cache
+C:\Users\htooa\Desktop\csharp\Visual_studio\C# SA B1\AlgotithmDemo\AlgotithmDemo\obj\Debug\net6.0\AlgotithmDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\htooa\Desktop\csharp\Visual_studio\C# SA B1\AlgotithmDemo\AlgotithmDemo\obj\Debug\net6.0\AlgotithmDemo.AssemblyInfoInputs.cache
+C:\Users\htooa\Desktop\csharp\Visual_studio\C# SA B1\AlgotithmDemo\AlgotithmDemo\obj\Debug\net6.0\AlgotithmDemo.AssemblyInfo.cs
+C:\Users\htooa\Desktop\csharp\Visual_studio\C# SA B1\AlgotithmDemo\AlgotithmDemo\obj\Debug\net6.0\AlgotithmDemo.csproj.CoreCompileInputs.cache
+C:\Users\htooa\Desktop\csharp\Visual_studio\C# SA B1\AlgotithmDemo\AlgotithmDemo\obj\Debug\net6.0\AlgotithmDemo.dll
+C:\Users\htooa\Desktop\csharp\Visual_studio\C# SA B1\AlgotithmDemo\AlgotithmDemo\obj\Debug\net6.0\ref\AlgotithmDemo.dll
+C:\Users\htooa\Desktop\csharp\Visual_studio\C# SA B1\AlgotithmDemo\AlgotithmDemo\obj\Debug\net6.0\AlgotithmDemo.pdb
+C:\Users\htooa\Desktop\csharp\Visual_studio\C# SA B1\AlgotithmDemo\AlgotithmDemo\obj\Debug\net6.0\AlgotithmDemo.genruntimeconfig.cache

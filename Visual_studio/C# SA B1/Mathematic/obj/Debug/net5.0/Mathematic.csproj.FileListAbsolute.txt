@@ -1,0 +1,16 @@
+C:\Users\htooa\Desktop\C#\Mathematic\bin\Debug\net5.0\Mathematic.exe
+C:\Users\htooa\Desktop\C#\Mathematic\bin\Debug\net5.0\Mathematic.deps.json
+C:\Users\htooa\Desktop\C#\Mathematic\bin\Debug\net5.0\Mathematic.runtimeconfig.json
+C:\Users\htooa\Desktop\C#\Mathematic\bin\Debug\net5.0\Mathematic.runtimeconfig.dev.json
+C:\Users\htooa\Desktop\C#\Mathematic\bin\Debug\net5.0\Mathematic.dll
+C:\Users\htooa\Desktop\C#\Mathematic\bin\Debug\net5.0\ref\Mathematic.dll
+C:\Users\htooa\Desktop\C#\Mathematic\bin\Debug\net5.0\Mathematic.pdb
+C:\Users\htooa\Desktop\C#\Mathematic\obj\Debug\net5.0\Mathematic.csproj.AssemblyReference.cache
+C:\Users\htooa\Desktop\C#\Mathematic\obj\Debug\net5.0\Mathematic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\htooa\Desktop\C#\Mathematic\obj\Debug\net5.0\Mathematic.AssemblyInfoInputs.cache
+C:\Users\htooa\Desktop\C#\Mathematic\obj\Debug\net5.0\Mathematic.AssemblyInfo.cs
+C:\Users\htooa\Desktop\C#\Mathematic\obj\Debug\net5.0\Mathematic.csproj.CoreCompileInputs.cache
+C:\Users\htooa\Desktop\C#\Mathematic\obj\Debug\net5.0\Mathematic.dll
+C:\Users\htooa\Desktop\C#\Mathematic\obj\Debug\net5.0\ref\Mathematic.dll
+C:\Users\htooa\Desktop\C#\Mathematic\obj\Debug\net5.0\Mathematic.pdb
+C:\Users\htooa\Desktop\C#\Mathematic\obj\Debug\net5.0\Mathematic.genruntimeconfig.cache

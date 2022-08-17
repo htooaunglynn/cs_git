@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4e0d6bfb-5179-4b67-93bb-48b0dc246742": {
+      "ProjectGuid": "4e0d6bfb-5179-4b67-93bb-48b0dc246742",
+      "DisplayName": "LibraryManagmentSystem",
+      "ColorIndex": 0
+    },
+    "4808d98c-4c29-4509-9d53-fe195ff70578": {
+      "ProjectGuid": "4808d98c-4c29-4509-9d53-fe195ff70578",
+      "DisplayName": "Tutorial",
+      "ColorIndex": 1
+    },
+    "f1598e84-d4f3-4a07-907d-c19d8edca0a5": {
+      "ProjectGuid": "f1598e84-d4f3-4a07-907d-c19d8edca0a5",
+      "DisplayName": "Assignment4",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
